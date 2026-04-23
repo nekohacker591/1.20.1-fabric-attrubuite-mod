@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "universalattributes",
+  "version": "${version}",
+  "name": "Universal Attributes",
+  "description": "Configurable permanent global player attributes, damage immunities/resistances, and status effects.",
+  "authors": [
+    "Codex"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.universalattributes.UniversalAttributesMod"
+    ],
+    "client": [
+      "com.example.universalattributes.UniversalAttributesClient"
+    ],
+    "modmenu": [
+      "com.example.universalattributes.UniversalAttributesModMenu"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "cloth-config": ">=11.0.0"
+  },
+  "mixins": [
+    "universalattributes.mixins.json"
+  ]
+}
