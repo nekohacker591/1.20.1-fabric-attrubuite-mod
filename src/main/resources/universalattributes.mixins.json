@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.example.universalattributes.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "LivingEntityDamageMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
