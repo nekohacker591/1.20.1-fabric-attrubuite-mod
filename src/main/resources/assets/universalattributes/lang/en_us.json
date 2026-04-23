@@ -1,0 +1,21 @@
+{
+  "modmenu.descriptionTranslation.universalattributes": "Global, permanent, configurable player attributes and status effects.",
+  "text.universalattributes.title": "Universal Attributes",
+  "text.universalattributes.search": "Search attributes/effects...",
+  "text.universalattributes.section.attributes": "Attributes",
+  "text.universalattributes.section.mob_attributes": "Mob Specific Attributes",
+  "text.universalattributes.section.world_attributes": "World Attributes",
+  "text.universalattributes.section.game_attributes": "Game Attributes",
+  "text.universalattributes.section.effects": "Permanent Status Effects",
+  "text.universalattributes.section.damage": "Damage Resistances & Immunities",
+  "text.universalattributes.section.internals": "Internals (Experimental)",
+  "text.universalattributes.enabled": "Enabled",
+  "text.universalattributes.value": "Value",
+  "text.universalattributes.effect.amplifier": "Amplifier",
+  "text.universalattributes.effect.hide_particles": "Hide Particles",
+  "text.universalattributes.effect.show_icon": "Show Icon",
+  "text.universalattributes.damage.resistance": "Resistance (0.0-1.0)",
+  "text.universalattributes.damage.immunity": "Immunity",
+  "text.universalattributes.save": "Save",
+  "text.universalattributes.reset": "Reset"
+}
